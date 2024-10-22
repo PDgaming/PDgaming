@@ -1,43 +1,83 @@
 # Hello There! 👋 I'm Produnya Dehingia!
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive into coding. Currently in **Eigth Grade**, I’ve worked on numerous projects and have been honing my skills as a **Full Stack Web Developer**. 🎮🌐
 
 ---
 
 ## 🚀 **About Me**:
-- 🎓 **Eight Grade**
-- 🧑‍💻 **Full Stack Web Developer**
+
+- 🎓 **Eight Grade**: Currently studying in 8th grade.
+- 🧑‍💻 **Full Stack Web Developer**: Love to create and work with web applications.
 - 🛠️ **Project Enthusiast**: Constantly working on new projects and learning new skills.
 - 💻 **Tech Lover**: I enjoy coding and exploring new technologies that push my creative boundaries.
 
----
+## 🔗 Links
 
-## 💡 **What I Do**:
-![Design GIF](https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://produnya-portfolio.pages.dev/)
 
-I'm always on a quest for knowledge! Whether it’s developing websites, scripting for games, or tinkering with new ideas, I’m committed to expanding my skills. I love:
-- **Building Websites** 🖥️
-- **Learning New Skills** 👨‍💻
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/produnya-dehingia)
 
----
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PDgaming)
 
-## 🛠️ **Languages & Tools I Use**:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ **Skills**:
 
----
+- **Languges I know**: HTML, CSS, JavaScript, TypeScript, Python, C, C++, Go, SQL, PostgreSQL, Java, Svelte
+
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Bootstrap, Daisy UI , Svelte, Svelte Kit, Responsive Design
+
+- **Back End**: Supabase, Firebase, Neon DB, SQL, PostgreSQL, Docker
+
+- **Platforms**: Web, Android, Docker
+
+## **Additional Skills and Interests**:
+
+**Language**: Fluent in Assamese, Hindi and English, and Learning Japanese.
+
+## **Education**:
+
+- Currently Studying in 8th Grade in Brahmaputra Valley School
+
+## **Work Experience**:
+
+- **PD Enterprise** - (2024-Current)
+- **CloudSapphire** - (2024-Current)
 
 ## ✨ **Projects & Achievements**:
-- 💻 Developed several **web applications** with sleek designs and high functionality.
-- ⚙️ **Constant Learner**: Continuously learning new programming languages and frameworks to improve my craft.
-- 🌟 **Collaborator**: Enjoy working in teams and collaborating on exciting new projects!
+
+- [Grade AI](https://grade-ai.pages.dev)
+- [Cracked Eggs Minecraft server](https://crackedeggs.pages.dev/)
+- [Juice World](https://juice-world.pages.dev/)
+- [Number-guessing-Neural-Network-3X3-grid--CNN](https://github.com/PDgaming/Number-guessing-Neural-Network-3X3-grid--CNN)
+- [PD-s-AI](https://github.com/PDgaming/PD-s-AI)
+
+## 👩‍💻 **I'm currently working on**:
+
+- [Grade AI](https://grade-ai.pages.dev)
+- [Grade App](https://github.com/PDgaming/Grade-App)
+- [Cnotes](https://github.com/PDgaming/cnotes)
+- [Juice World](https://github.com/PDgaming/juice-world)
+- [CloudSapphire](https://github.com/PDgaming/CloudSapphire)
+- [VisionaryAI](https://github.com/PDgaming/VisionaryAI)
+- [Anonymous-Chat-App](https://github.com/PDgaming/Anonymous-Chat-App)
+- [PDs-OS-Web](https://github.com/PDgaming/PDs-OS-Web)
+- [PDs-Bank](https://github.com/PDgaming/PDs-Bank)
+- Unite Battle
+- Life of a PD
+
+## 🧠 **I'm currently learning**:
+
+- Game Development Using Unity
+- Android Development using Svelte Native
+- C
+- C++
+- Go
+- SQL
+- PostgreSQL
+- Java
 
 ## 📫 **Contact Me**:
+
 If you want to connect or check out more of my work, here’s how you can reach me:
 - **Email**: produnyadehingia12345@gmail.com
-- **Portfolio**: [https://produnya-portfolio.pages.dev/](https://produnya-portfolio.pages.dev/)
