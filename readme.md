@@ -16,9 +16,7 @@ I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive 
 ## 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://produnya-portfolio.pages.dev/)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/produnya-dehingia)
-
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PDgaming)
 
 ## 🛠️ **Skills**:
