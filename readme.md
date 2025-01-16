@@ -2,7 +2,7 @@
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive into coding. Currently in **Eigth Grade**, I’ve worked on numerous projects and have been honing my skills as a **Full Stack Web Developer**. 🎮🌐
+I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive into coding. Currently in **Eighth Grade**, I’ve worked on numerous projects and have been honing my skills as a **Full Stack Web Developer**. 🎮🌐
 
 ---
 
@@ -21,9 +21,9 @@ I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive 
 
 ## 🛠️ **Skills**:
 
-- **Languges I know**: HTML, CSS, JavaScript, TypeScript, Python, C, C++, Go, SQL, PostgreSQL, Java, Svelte
+- **Languages I know**: HTML, CSS, JavaScript, TypeScript, Python, C, C++, Go, SQL, PostgreSQL, Java, Svelte
 
-- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Bootstrap, Daisy UI , Svelte, Svelte Kit, Responsive Design
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Bootstrap, Daisy UI, Svelte, Svelte Kit, Responsive Design
 
 - **Back End**: Supabase, Firebase, Neon DB, SQL, PostgreSQL, Docker
 
@@ -31,7 +31,7 @@ I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive 
 
 ## **Additional Skills and Interests**:
 
-**Language**: Fluent in Assamese, Hindi and English, and Learning Japanese.
+**Language**: Fluent in Assamese, Hindi, and English, and Learning Japanese.
 
 ## **Education**:
 
