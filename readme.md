@@ -2,13 +2,12 @@
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive into coding. Currently in **Eighth Grade**, I’ve worked on numerous projects and have been honing my skills as a **Full Stack Web Developer**. 🎮🌐
+I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive into coding. I’ve worked on numerous projects and have been honing my skills as a **Full Stack Web Developer**. 🎮🌐
 
 ---
 
 ## 🚀 **About Me**:
 
-- 🎓 **Eight Grade**: Currently studying in 8th grade.
 - 🧑‍💻 **Full Stack Web Developer**: Love to create and work with web applications.
 - 🛠️ **Project Enthusiast**: Constantly working on new projects and learning new skills.
 - 💻 **Tech Lover**: I enjoy coding and exploring new technologies that push my creative boundaries.
