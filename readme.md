@@ -32,10 +32,6 @@ I'm **Produnya Dehingia**, a passionate teenager who’s always excited to dive 
 
 **Language**: Fluent in Assamese, Hindi, and English, and Learning Japanese.
 
-## **Education**:
-
-- Currently Studying in 8th Grade in Brahmaputra Valley School
-
 ## **Work Experience**:
 
 - **PD Enterprise** - (2024-Current)
